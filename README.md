@@ -13,6 +13,8 @@ DreamWriter
 * Line wrapping
 * Code folding
 * Live syntax checker
+* Discord Rich Presence 
+
 Features we want to add:
 * Plugins/Extensions
 * Command line (CMD console)
