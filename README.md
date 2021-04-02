@@ -20,5 +20,5 @@ Features we want to add:
 * Command line (CMD console)
 
 # Releases
-Windows - N/A
-Website - N/A
+* Windows - N/A
+* Website - N/A
