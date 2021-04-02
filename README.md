@@ -13,7 +13,6 @@ DreamWriter
 * Line wrapping
 * Code folding
 * Live syntax checker
-
 Features we want to add:
 * Plugins/Extensions
 * Command line (CMD console)
