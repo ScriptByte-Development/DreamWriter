@@ -2,8 +2,6 @@
 C# code editor 
 
 # Features
-DreamWriter 
-
 * Syntax highlighting for over 110 languages
 * Automatic indent and outdent
 * Handles huge documents (4 million lines)
