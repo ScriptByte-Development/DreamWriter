@@ -1,5 +1,5 @@
 # DreamWriter
-C# code editor 
+C# portable code editor
 
 # Features
 * Syntax highlighting for over 110 languages
@@ -20,3 +20,7 @@ Features we want to add:
 # Releases
 * Windows - N/A
 * Website - N/A
+
+# Portability
+* Windows build will not include any dlls, all dlls will be packed inside the executable for easy portability
+* Website can be used on any device
