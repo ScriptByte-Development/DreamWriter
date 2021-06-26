@@ -24,3 +24,6 @@ Features we want to add:
 # Portability
 * Windows build will not include any dlls, all dlls will be packed inside the executable for easy portability
 * Website can be used on any device
+
+# Discord
+<iframe src="https://discord.com/widget?id=827233058943008768&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
