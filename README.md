@@ -26,3 +26,4 @@ Features we want to add:
 * Website can be used on any device
 
 # Discord
+Join [here]https://discord.gg/SpRYUvDDfy
