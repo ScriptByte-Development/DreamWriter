@@ -1,25 +1,20 @@
 # DreamWriter
 C# portable code editor
 
-# Features
-* Syntax highlighting for over 110 languages
+Features:
+* Syntax highlighting for many languages
 * Automatic indent and outdent
-* Handles huge documents (4 million lines)
+* Handles huge documents
 * Highlight matching parentheses
 * Displays hidden characters
-* Drag and drop text
 * Line wrapping
 * Code folding
 * Live syntax checker
-* Discord Rich Presence 
+*CMD (Console)
 
 Features we want to add:
 * Plugins/Extensions
-* Command line (CMD console)
-
-# Releases
-* Windows - N/A
-* Website - http://dreamwriter.atwebpages.com/
+* Drag and drop text
 
 # Portability
 * Windows build will not include any dlls, all dlls will be packed inside the executable for easy portability
