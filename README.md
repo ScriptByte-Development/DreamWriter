@@ -10,7 +10,7 @@ Features:
 * Line wrapping
 * Code folding
 * Live syntax checker
-*CMD (Console)
+* CMD (Console)
 
 Features we want to add:
 * Plugins/Extensions
