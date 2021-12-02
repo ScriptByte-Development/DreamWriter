@@ -1,6 +1,6 @@
 # DreamWriter
 C# portable code editor
-
+-- This is currently being rewritten, the old version has been removed --
 Features:
 * Syntax highlighting for many languages
 * Automatic indent and outdent
@@ -22,6 +22,3 @@ Features we want to add:
 
 # Discord
 Join [here](https://discord.gg/SpRYUvDDfy)
-
-# Download
-Click [here](https://up-to-down.net/349500/dream)
