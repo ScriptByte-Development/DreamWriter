@@ -1,7 +1,10 @@
 # DreamWriter
 C# portable code editor
 <br>
+<br>
 -- This is currently being rewritten, the old version has been removed --
+<br>
+<br>
 Features:
 * Syntax highlighting for many languages
 * Automatic indent and outdent
