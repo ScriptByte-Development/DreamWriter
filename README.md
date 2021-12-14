@@ -12,7 +12,7 @@ Features:
 * Plugins/Extensions
 
 Features we want to add:
-* * CMD console
+* CMD console
 * Drag and drop text
 
 # Discord
